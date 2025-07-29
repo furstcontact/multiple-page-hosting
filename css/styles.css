@@ -1,4 +1,39 @@
 body {
-  background-color: #efbb41;
+  background-color: #f5d68f;
   font-family: Arial, sans-serif;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+  font-size: 1.2em;
+  color: #333;
+  margin: 20px 0;
+}
+
+.main-img {
+  width: 30%;
+  display: block;
+  margin: 0 auto;
+}
+
+.home-link,
+.contact-link {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.about {
+  padding: 20px;
 }
